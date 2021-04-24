@@ -6,3 +6,12 @@ This script contains a function which takes as input a square matrix. It then pr
 
 2. printSecDiag.py
 This script contains a function which takes as input a square matrix and prints the secondary diagnol elements of the square matrix.
+
+3. largWrdDict.py
+This script contains a function which takes as input a dictionary object and prints the longest word in the dictionary.
+
+4. fndNonRptChar
+This script contains a function which takes as input an array (string) and prints the first non repeatable character in the array
+
+pending- find the largest element in the dictionary
+
