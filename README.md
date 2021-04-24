@@ -10,8 +10,12 @@ This script contains a function which takes as input a square matrix and prints 
 3. largWrdDict.py
 This script contains a function which takes as input a dictionary object and prints the longest word in the dictionary.
 
-4. fndNonRptChar
+4. fndNonRptChar.py
 This script contains a function which takes as input an array (string) and prints the first non repeatable character in the array
+
+5. binarySearchRecursive.py
+the script contains a function which attempts a binary search using recursion rather than iteration
+
 
 pending- find the largest element in the dictionary
 
