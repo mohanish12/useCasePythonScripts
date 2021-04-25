@@ -19,5 +19,8 @@ the script contains a function which attempts a binary search using recursion ra
 6. revStr.py
 The script contains a function which takes as input a string and returns the reverse of the string
 
+5. lrgstNoFrmArray.py
+The script contains a function which takes an input an array and reutrns the largest number possible out of that array.
+
 pending- find the largest element in the dictionary
 
