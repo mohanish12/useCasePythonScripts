@@ -16,6 +16,8 @@ This script contains a function which takes as input an array (string) and print
 5. binarySearchRecursive.py
 the script contains a function which attempts a binary search using recursion rather than iteration
 
+6. revStr.py
+The script contains a function which takes as input a string and returns the reverse of the string
 
 pending- find the largest element in the dictionary
 
